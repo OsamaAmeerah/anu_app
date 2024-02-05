@@ -69,6 +69,7 @@ flutter:
   assets:
     - assets/images/
     - assets/images/anu.jpg
+    - assets/images/calculator.png
     - assets/images/bajes.jpeg
     - assets/RiveAssets/
 
